@@ -1,3 +1,4 @@
 var a ="hello";
 
-var b = "How are you";
+var b ="awesome";
+var c ="cool"
